@@ -1,5 +1,7 @@
 # Leaf & Bloom Co
 
+![Performance Dashboard](https://raw.githubusercontent.com/PR-Data/Leaf-Bloom-Co/main/Leaf%20%26%20Bloom%20Dashboard.png)
+
 Data - Sales data of a plant company with over 
 
 Data Cleaning & Analysis - PowerQuery
